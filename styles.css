@@ -83,16 +83,16 @@ body {
 }
 
 .green-glow {
-  border: 4px solid #4dcc7d;
+  border: 6px solid #4dcc7d;
   box-shadow: 0 0 10px #31b43a;
 }
 
 .red-glow {
-    border: 4px solid #fc121b;
+    border: 6px solid #fc121b;
     box-shadow: 0 0 10px #31b43a;
 }
 
 .grey-glow {
-  border: 4px solid #464647;
+  border: 6px solid #464647;
   box-shadow: 0 0 10px #25292b;
 }
