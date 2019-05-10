@@ -82,6 +82,14 @@ body {
   margin-top: 40px;
 }
 
+#first {
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
 .green-glow {
   border: 6px solid #4dcc7d;
   box-shadow: 0 0 10px #31b43a;
